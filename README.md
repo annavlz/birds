@@ -10,7 +10,7 @@
 
 We can change the architecture from a server-oriented to a client-oriented, that is sending a model to the device and applying it to the data there. It will solve these problems, but at the same time, it will reduce the number of the available models (that is not too heavy to use on a mobile). Also, it will diminish the learning side of it: once we used our "start-off" data, learned a model and send it to the device, we do not update the model anymore. 
 The raw data gathered but the device is not included in the learning loop. To change this, we need to discover a mechanism that will allow mobile devices, once they have applied the model and got the result, to send this result back to the server where we can use it for updating the model. The new model then is distributed among all connected devices. 
-The primary goals of this study are to investigate a possibility of a distributed learning with mobile devices and to experiment with real data by creating a simple mobile application.
+The primary goals of this study are to investigate a possibility of a distributed learning with mobile devices and to experiment with real data by creating a simple mobile application. The possible data type is records of birds sounds with identifying tags.  Another possibility is to use images (for example of birds) with identifying tags.
 
 Plan:
 - make a list of models used in sound recognition 
