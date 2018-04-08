@@ -21,6 +21,10 @@ Plan:
 - build app
 - evaluate failure/success
 
+Index:
+- [Sound recognition review (birds)](https://github.com/annavlz/distributed-learning)
+- [Machine learning on mobile devices](https://github.com/annavlz/distributed-learning) 
+
 
 
 
