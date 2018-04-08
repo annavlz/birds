@@ -22,8 +22,8 @@ Plan:
 - evaluate failure/success
 
 Index:
-- [Sound recognition review (birds)](https://github.com/annavlz/distributed-learning)
-- [Machine learning on mobile devices](https://github.com/annavlz/distributed-learning) 
+- [Sound recognition review (birds)](https://github.com/annavlz/distributed-learning/blob/master/reports/sound-recognition.md)
+- [Machine learning on mobile devices](https://github.com/annavlz/distributed-learning/blob/master/reports/mobile-ml.md) 
 
 
 
